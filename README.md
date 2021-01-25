@@ -1,4 +1,4 @@
-[![Hansen Gianto](https://github.com/HansenGianto/HansenGianto/blob/main/img/github.jpg?raw=true)](https://github.com/HansenGianto/HansenGianto)
+[![Hansen Gianto](https://github.com/HansenGianto/HansenGianto/blob/main/img/github-icon.jpg?raw=true)](https://github.com/HansenGianto/HansenGianto)
 <b align='center'> Hi There! :wave:</b>
 <b align='center'>My Name Is Hansen</b>
 <p align='center'>
