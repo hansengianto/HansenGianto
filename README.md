@@ -1,6 +1,6 @@
 [![Hansen Gianto](https://github.com/HansenGianto/HansenGianto/blob/main/img/github-icon.jpg?raw=true)](https://github.com/HansenGianto/HansenGianto)
-<b align='center'> Hi There! :wave:</b>
-<b align='center'>My Name Is Hansen</b>
+<h1 align='center'> Hi There! :wave:</h1>
+<p align='center'>My Name Is Hansen</p>
 <p align='center'>
 <a href="https://www.instagram.com/hansen_gianto"><img height="30" src="https://github.com/HansenGianto/HansenGianto/blob/main/img/instagram.svg?raw=true"></a>&nbsp;&nbsp;
 </p><br/>
